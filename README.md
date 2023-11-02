@@ -7,7 +7,7 @@ Added REadme file
 
 
 
-Class :  Electorincs
+Class :  Electornics
 Attributes
 
 -  productname (string)
